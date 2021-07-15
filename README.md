@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdallah-Mansoor
-- 👀 I’m interested in Front-end Web Development
+- 👀 I love Front-end Web Development and UI/UX Design
 - 🌱 I’m currently learning Javascript
 
 <!---
