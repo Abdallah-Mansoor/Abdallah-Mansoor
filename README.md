@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Abdallah-Mansoor.
-- 👀 I'm a Self-taught Front-end Developer and UI/UX Designer.
-- 🌱 I’m currently learning Javascript.
+- 👋 Hi, My name is Abdallah Mansoor.
+- 🚀 I'm a Self-taught Front-End Developer and UI/UX Designer.
+- 💻 I’m currently learning Javascript.
 
 <!---
 Abdallah-Mansoor/Abdallah-Mansoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
