@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Abdallah Mansoor.
-- 🚀 I'm a Self-taught Front-End Developer and UI/UX Designer.
+- 🚀 I'm a Front-End Developer and UI/UX Designer.
 - 💻 I’m currently learning Javascript.
 
 <!---
